@@ -1,0 +1,4 @@
+#wpsn-slideshow {margin: 1% auto; position: relative; width: auto; height: auto;padding: 10px; transition: all .2s ease-in-out;box-shadow: 0 0 20px rgba(0,0,0,0.15);}
+#wpsn-slideshow {clear:both}#wpsn-slideshow .wpsn-inner  img{display:inline-block;margin:5px 10px;height:80px;width:auto;position:relative;overflow:hidden;padding:0px;}#wpsn-slideshow .wpsn-inner span.wsn-title {
+display: block;font-weight: bold;position: relative;font-size:14px;}#wpsn-slideshow .wpsn-inner span.wsn-buyer {/* display: inline-block; */font-size: 12px;}#wpsn-slideshow .wpsn-inner span.wsn-time {
+font-size: 14px;font-weight: bold;display: block;position: relative;}#wpsn-slideshow .wsn-content, #wpsn-slideshow .wsn-image {display: inline-block;vertical-align: top;}
